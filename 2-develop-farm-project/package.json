@@ -1,0 +1,27 @@
+{
+  "name": "2-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "farm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "^0.5.8",
+    "@farmfe/core": "^0.13.5",
+    "@farmfe/plugin-react": "^0.3.2",
+    "@farmfe/plugin-sass": "^0.2.2",
+    "@types/react": "^18.2.25",
+    "@types/react-dom": "^18.2.11",
+    "react-refresh": "^0.14.0"
+  }
+}
