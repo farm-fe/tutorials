@@ -1,0 +1,29 @@
+{
+  "name": "3-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "farm start",
+    "build": "farm build",
+    "preview": "farm preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "^0.6",
+    "@farmfe/core": "^0.16",
+    "@farmfe/plugin-react": "^0.6",
+    "@farmfe/plugin-sass": "^0.5",
+    "@types/react": "^18.2.25",
+    "@types/react-dom": "^18.2.11",
+    "react-refresh": "^0.14.0"
+  }
+}
